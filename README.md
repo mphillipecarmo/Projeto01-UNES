@@ -1,2 +1,2 @@
 # Projeto01-UNES
-Projeto do curso de desenvolvimento web
+Primeiro projeto do curso de desenvolvimento web usando HTML.
